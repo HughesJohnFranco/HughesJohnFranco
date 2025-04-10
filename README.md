@@ -1,7 +1,8 @@
 <h1 align="center"><b>👋 I´m John</b></h1>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/12345678/git-john2.png" alt="Mi imagen">
+  <img src="git-john2.png" alt="Descripción" width="300">
+
 </div>
 
 <!--
