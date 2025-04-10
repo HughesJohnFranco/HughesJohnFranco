@@ -1,7 +1,7 @@
 <h1 align="center"><b>👋 I´m John</b></h1>
 
 <div align="center">
-  <img src="git-john2.png" alt="Descripción">
+  <img src="git-john2.png" alt="Descripción" width="700">
 
 </div>
 
