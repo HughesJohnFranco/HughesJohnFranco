@@ -1,4 +1,4 @@
-<h1 align="center"><b>👋 I´m John</b></h1>
+<h1 align="center"><b>👋 Hello</b></h1>
 
 <div align="center">
   <img src="aaa.png" alt="Descripción">
